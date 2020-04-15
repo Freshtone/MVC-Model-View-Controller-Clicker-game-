@@ -1,0 +1,38 @@
+.container {
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    height: 500px;
+    padding-left: 50px;
+}
+
+.aligner-item {
+    max-width: 50%;
+}
+body{
+    background-color: grey;
+    font-family: 'Franklin Gothic Medium';
+}
+
+p   {
+    color: rgb(235, 235, 235);
+}
+
+button.clicker  {
+    font-size: 20px;
+    background-color: black;
+    color: greenyellow;
+}
+button.upgradeBtn   {
+    font-size: 20px;
+    background-color:black;
+    color: red;
+}
+
+div.infoBox {
+    font-size: 17px;
+    color: lawngreen;
+    border-style: groove;
+    word-wrap: break-word;
+
+}
